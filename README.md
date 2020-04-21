@@ -8,12 +8,13 @@ Advice App using create-react-app
 Setup:
 - run ```npm i && npm start```
 
-App Info
-Author
+# App Info
+
+# Author
 Allister_hyrdra
 
-Version
+# Version
 1.0.0
 
-License
+# License
 This project is licensed under the MIT License

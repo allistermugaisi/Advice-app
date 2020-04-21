@@ -7,3 +7,13 @@ Advice App using create-react-app
 
 Setup:
 - run ```npm i && npm start```
+
+App Info
+Author
+Allister_hyrdra
+
+Version
+1.0.0
+
+License
+This project is licensed under the MIT License
